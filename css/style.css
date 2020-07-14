@@ -1,0 +1,22 @@
+img{
+  height: 90px;
+}
+body{
+  background-color:#ffe0f7;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 9px;
+  width:3%;
+  }
+h1{
+ color:#e84a5f;
+}
+h3{
+  color:#e84a5f;
+}
+.bacon{
+  background-color:red;
+}
